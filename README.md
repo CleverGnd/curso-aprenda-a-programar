@@ -12,3 +12,5 @@ Descubra se programação é para você e dê os primeiros passos em uma carreir
 | Quarta - 24/08/22 | Dia 3 | Aprendendo a programar e adquirindo o hábito com GitHub, parte 2 |
 | Quinta - 25/08/22 | Dia 4 | Conhecendo o mundo da web com HTML + CSS + JavaScript |
 | Sexta - 26/08/22 | Dia 5 | Seus próximos passos como pessoa programadora |
+
+https://github.com/ituring-repo/aprenda-a-programar
